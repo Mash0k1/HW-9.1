@@ -1,0 +1,30 @@
+body {
+    background-color: #fcf8f2;
+    color: #4a3b32;
+}
+
+h1 {
+    color: #8b5a2b;
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+}
+
+h2 {
+    color: #d2691e;
+}
+
+.dog-photo {
+    width: 300px;
+}
+
+h3 {
+    color: #8b5a2b;
+}
+
+li {
+    margin-bottom: 5px;
+}
